@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"my-url",
+    "imagebaseurl":"http://coder1311.github.io/My-Portfolio",
     "name": "Ritu Raj",
     "role": "Competitive Coder | MERN Stack Developer | Problem Solver",
     "linkedinId":"Your LinkedIn Id",
@@ -12,14 +12,14 @@ let resumeData = {
         },
         {
           "name":"github",
-          "url":"https://github.com/coder1311",
+          "url":"http://coder1311.github.io/My-Portfolio",
           "className":"fa fa-github"
         },
 
       ],
     "aboutme":"I am currently a pre-final year B.Tech student at Netaji Subhash Engineering College,Kolkata. I am a self taught Problem Solver, Coder and MERN Stack Web Developer, currently diving deeper into BlockChain Technology. I believe that to be successful in life, one needs to be a lifelong learner and obsessive with their dreams & keep working towards them.",
     "address":"Bihar Sharif, Bihar, India",
-    "website":"my-url",
+    "website":"http://coder1311.github.io/My-Portfolio",
     "education":[
       {
         "UniversityName":"Netaji Subhash Engineering College, Kolkata",

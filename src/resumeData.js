@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"http://coder1311.github.io/My-Portfolio",
     "name": "Ritu Raj",
     "role": "Competitive Coder | MERN Stack Developer | Problem Solver",
-    "linkedinId":"Your LinkedIn Id",
+    "linkedinId":"https://www.linkedin.com/in/ritu-raj13/",
     "roleDescription": "I love to explore & learn about new technologies and do problem solving on any coding platform or play games in my free time.",
     "socialLinks":[
         {
@@ -12,14 +12,14 @@ let resumeData = {
         },
         {
           "name":"github",
-          "url":"http://coder1311.github.io/My-Portfolio",
+          "url":"https://github.com/coder1311",
           "className":"fa fa-github"
         },
 
       ],
     "aboutme":"I am currently a pre-final year B.Tech student at Netaji Subhash Engineering College,Kolkata. I am a self taught Problem Solver, Coder and MERN Stack Web Developer, currently diving deeper into BlockChain Technology. I believe that to be successful in life, one needs to be a lifelong learner and obsessive with their dreams & keep working towards them.",
-    "address":"Bihar Sharif, Bihar, India",
-    "website":"http://coder1311.github.io/My-Portfolio",
+    "email":"rituraj1311@gmail.com",
+    "phone":"+91 6264776693",
     "education":[
       {
         "UniversityName":"Netaji Subhash Engineering College, Kolkata",
@@ -55,47 +55,47 @@ let resumeData = {
     "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"Problem Solving - DSA"
+        "skillname":"Problem-Solving-DSA"
       },
       {
         "skillname":"Python"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"web-development"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Project1",
+        "description":"Health-Tracker-Web-App",
+        "imgurl":"images/portfolio/health-tracker.png"
       },
       {
         "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "description":"Chit-Chat-Room-Web-App",
+        "imgurl":"images/portfolio/chit-chat-room-app.png"
       },
       {
         "name":"project3",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project2.png"
+        "description":"ToDo-List-Website",
+        "imgurl":"images/portfolio/todo-list-app.png"
       },
       {
         "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "description":"Keeper-Web-App",
+        "imgurl":"images/portfolio/keeper-app.png"
       }
     ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
-    ]
+  //   "testimonials":[
+  //     {
+  //       "description":"This is a sample testimonial",
+  //       "name":"Some technical guy"
+  //     },
+  //     {
+  //       "description":"This is a sample testimonial",
+  //       "name":"Some technical guy"
+  //     }
+  //   ]
   }
 
   export default resumeData

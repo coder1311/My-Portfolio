@@ -67,8 +67,8 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Project1",
-        "description":"Health-Tracker-Web-App",
-        "imgurl":"images/portfolio/health-tracker.png"
+        "description":"Personal-Notes-Keeper",
+        "imgurl":"images/portfolio/personal-notes-app.png"
       },
       {
         "name":"project2",
@@ -77,8 +77,8 @@ let resumeData = {
       },
       {
         "name":"project3",
-        "description":"ToDo-List-Website",
-        "imgurl":"images/portfolio/todo-list-app.png"
+        "description":"Blog-Website",
+        "imgurl":"images/portfolio/blogIt-website.png"
       },
       {
         "name":"project4",
